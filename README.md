@@ -1,2 +1,1 @@
-# leehom_proj
-daily project
+# es_hadoop_plugin
